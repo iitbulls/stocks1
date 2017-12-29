@@ -7,7 +7,7 @@ import time
 import os
 from odo import odo
 uri='mysql://anuj:bhansali@127.0.0.1:3306/anuj::nse_bhav'
-
+#need to move this to better readable code
 def bhav(dt):
     MMM = dt.strftime("%b").upper()
     yyyy = dt.strftime("%Y")
