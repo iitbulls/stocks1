@@ -2,6 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac88d585-0151-41b7-b79e-b66fb18dee65" name="Default" comment="deleted files">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/analysis-checkpoint.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/analysis.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/analysis.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-01.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-02.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-03.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-04.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-05.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-08.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-09.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-10.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-11.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-12.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-15.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-16.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-17.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-18.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-19.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-22.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-23.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-24.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-25.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-29.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-30.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-01-31.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-01.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-02.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-05.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-06.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-07.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-08.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-09.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-12.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-14.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-15.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-16.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-19.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-20.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-21.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-22.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-23.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-26.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-27.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-02-28.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-01.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-05.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-06.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-07.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-08.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-09.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-12.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-13.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-14.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-15.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-16.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-19.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-20.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-21.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-22.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-23.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-26.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-27.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-03-28.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-02.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-03.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-04.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-05.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-06.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-09.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-10.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-11.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-12.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-13.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-16.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-17.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-18.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-19.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-20.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-23.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-24.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/2018-04-25.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gcp_storage.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +98,7 @@
       <file leaf-file-name="own.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/own.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="136">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="57" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -296,16 +378,33 @@
       <option name="project" value="LOCAL" />
       <updated>1514569159585</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="deleted files">
+      <created>1524756532611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524756532611</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.088541664" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2488189" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3284055" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284055" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24815206" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -317,7 +416,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -541,7 +639,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/own.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="57" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
