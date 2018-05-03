@@ -51,6 +51,7 @@ def maxdt():
         newlist.append(x)
     return (max(newlist))
 
+
 start =datetime.datetime.strptime(maxdt(),'%Y-%m-%d').date()
 end = datetime.datetime.now().date()
 for a in daterange( start, end ):
