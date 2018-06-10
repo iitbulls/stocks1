@@ -23,6 +23,7 @@ def bhav(dt):
                 del df['Unnamed: 13']
                 df=df[df["SERIES"].isin(["EQ"])]
                 df['TIMESTAMP'] = pd.to_datetime(df['TIMESTAMP'], infer_datetime_format=True)# to covert date from string to date and change format to accept SQL
+                #print (df.tail())
                 df.to_csv('db/%s.csv'%dt, index=False)
                 odo('db/%s.csv' %dt, uri)
                 time.sleep(1)
