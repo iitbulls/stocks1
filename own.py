@@ -6,6 +6,10 @@ import datetime
 import time
 import os
 from odo import odo
+from sqlalchemy import create_engine
+
+#cnx = create_engine('mysql+pymysql://anuj:bhansali@127.0.0.1:3306/anuj', echo=False)
+
 uri='mysql://anuj:bhansali@127.0.0.1:3306/anuj::nse_bhav'
 #need to move this to better readable code
 def bhav(dt):
@@ -25,6 +29,8 @@ def bhav(dt):
                 df['TIMESTAMP'] = pd.to_datetime(df['TIMESTAMP'], infer_datetime_format=True)# to covert date from string to date and change format to accept SQL
                 #print (df.tail())
                 df.to_csv('db/%s.csv'%dt, index=False)
+                #df.to_sql(name='nse_bhav', con=cnx, if_exists='append', index=False)
+
                 odo('db/%s.csv' %dt, uri)
                 time.sleep(1)
                 print(dt)
